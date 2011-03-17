@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3506
+
+This is a compiler plugin for Portable C Compiler (pcc).
+
+If you find any bug, please report it to xuhdev@gmail.com, or submit it on the
+issue tracker:
+https://bitbucket.org/xuhdev/compiler-pcc.vim/issues
+
+Repository:
+https://bitbucket.org/xuhdev/compiler-pcc.vim
